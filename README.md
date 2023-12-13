@@ -7,25 +7,6 @@
 
 ![Screenshot](./screenshot/index.png)
 
->This is the main page, where are listed the most recent recipes in the top 4 priority categories. Also the main article is the most voted article by users.
-
-## New Recipe section
-![Screenshot](./screenshot/new_recipe.png)
-
-> This is the section where the user can create a new recipe, uploading also the image for the entry.
-
-## View Recipe
-![Screenshot](./screenshot/view_recipe.png)
-
-> This is how it looks the recipe.
-
-## View category
-
-![Screenshot](./screenshot/show_recipes.png)
-
-> List all the recipes by category.
-
-
 ### 👷🏻 Built using
     - Ruby
     - Ruby On Rails
@@ -70,9 +51,8 @@ To get a local copy up and running follow these simple example steps.
 
 ## 👨🏻‍💻 Kenny Ortega
 
-- GitHub: [kensayo](https://github.com/kensayo)
-- Twitter: [@kensayo](https://twitter.com/kensayo)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kennyortega/)
+- GitHub: [Nejjari001](https://github.com/Nejjari001)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nejjari-abdelhafid/)
 
 
 ### 🤝🏻 Contributions and issues are welcome!
